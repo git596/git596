@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Springboot, AI**, Angular
+- 🌱 I’m currently learning **Python, Odoo**
 
 - 💬 Ask me about **React, Node.js, Tailwind css and Cloudinary**
 
