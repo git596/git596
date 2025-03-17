@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Python, Odoo**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, Node.js, Tailwind css and Cloudinary**
+- 💬 Ask me about **React.js, Node.js, Flutter-dart and Cloudinary**
 
 - 📫 How to reach me **ishadyaap@gmail.com**
 
